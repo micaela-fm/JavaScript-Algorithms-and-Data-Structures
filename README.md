@@ -11,7 +11,7 @@ In this certification, I learned core JavaScript concepts, including:
 - Algorithmic thinking and problem-solving
 - Working with local storage and fetching data from APIs
 
-##Technologies Used
+## Technologies Used
 - JavaScript (ES6+)
 - Node.js (for running scripts locally)
 - HTML & CSS (for applicable projects)
