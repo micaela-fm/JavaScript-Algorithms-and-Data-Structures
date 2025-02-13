@@ -26,6 +26,6 @@ To earn the certification, I completed the following projects:
 5. **Pokémon Search App** - Build a Pokémon search application.
 
 ## Repository Structure
-The repository is divided in modules, each containing some exercises and the project implementation.
+The repository consists of a PROJECTS directory, containing the main projects of the course, and several module directories, each containing its module's exercises.
 
 
